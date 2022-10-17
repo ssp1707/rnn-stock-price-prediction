@@ -59,7 +59,7 @@ X_train.shape
 length = 60
 n_features = 1
 model = Sequential()
-model.add(layers.SimpleRNN(10,input_shape=(60,1)))
+model.add(layers.SimpleRNN(20,input_shape=(60,1)))
 model.add(layers.Dense(1))
 
 model.compile(optimizer='adam', loss='mse')
