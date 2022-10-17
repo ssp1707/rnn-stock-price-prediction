@@ -30,7 +30,7 @@ Make Predictions and plot the graph with the Actual and Predicted values.
 ## PROGRAM
 
 ```
-Developed by: S. Sanjna Priya
+Developed by: S.Sanjna Priya
 Register no.:212220230043
 ```
 ```
@@ -92,11 +92,11 @@ plt.show()
 
 ### True Stock Price, Predicted Stock Price vs time
 
-
+![5 1](https://user-images.githubusercontent.com/75234965/196078842-558ad167-3383-4093-ae83-929ded23c643.PNG)
 
 ### Mean Square Error
 
-
+![5 2](https://user-images.githubusercontent.com/75234965/196078848-03ceb7ff-8762-4cbe-8082-32566f7f133b.PNG)
 
 ## RESULT
 Thus, a Recurrent Neural Network model for stock price prediction is developed.
