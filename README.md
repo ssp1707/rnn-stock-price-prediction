@@ -11,6 +11,8 @@ Note: These parameters can be changed as per requirements.
 
 ## Neural Network Model
 
+![rnn](https://user-images.githubusercontent.com/75234965/196089051-f77c03ca-0498-422e-909c-74b23957eed9.jpeg)
+
 ![image](https://user-images.githubusercontent.com/75235813/196021527-d661640a-f987-48b3-b2ab-ca3558503796.png)
 
 ## DESIGN STEPS
